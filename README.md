@@ -1,6 +1,9 @@
 From CDN
 =========
 
+
+[![npm](https://img.shields.io/npm/v/from-cdn.svg)](https://www.npmjs.com/package/from-cdn)
+
 Promise based CDN loader for js/css
 
 ### How use

@@ -1,0 +1,22 @@
+{
+  "name": "from-cdn",
+  "version": "1.0.0",
+  "description": "Simple on demand resource loading from CDN (css and js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types":"fromcdn.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mkozhukh/from-cdn.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "cdn",
+    "load"
+  ],
+  "author": "Maksim Kozhukh",
+  "license": "MIT"
+}

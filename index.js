@@ -22,6 +22,7 @@ module.exports = function dhxRequire(data){
                 document.getElementsByTagName('head')[0].appendChild(link);
 
                 //resolve without waiting
+                modules[path]=true;
                 res();
             } else {
                 //js modules
